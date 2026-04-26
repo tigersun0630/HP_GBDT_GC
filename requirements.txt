@@ -1,0 +1,8 @@
+matplotlib
+numpy
+pandas
+shap
+streamlit==1.40.1
+scikit-learn==1.5.0
+joblib==1.5.0
+altair==4.0.1
