@@ -18,11 +18,11 @@ import streamlit.components.v1 as components
 # 页面基础配置
 # =========================
 st.set_page_config(
-    page_title="基于GBDT的预测",
+    page_title="H. pylori Genetic Variation-Driven Gastric Cancer Risk Prediction: A SHAP-Explained Online Platform",
     layout="wide"
 )
 
-st.title("基于GBDT的预测")
+st.title("H. pylori Genetic Variation-Driven Gastric Cancer Risk Prediction: A SHAP-Explained Online Platform")
 
 
 # =========================
